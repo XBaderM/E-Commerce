@@ -23,6 +23,7 @@
 
   run ```npm install``` in terminal to install the dependencies. 
   run ```source schema.sql``` in sql to create database
+  run ```node seeds/index.js``` to seed data
   type ```node server.js``` in the console to localhost server.
   use insomnia to perform crud functions.
 
