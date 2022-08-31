@@ -1,12 +1,11 @@
  # e-commerce
- This is the backend of an E-commerce site. it has database models of categories , products, and tags, routes are created to perform various CRUD functions.
+
 
   
   ## Description:
 
-  ![License](https://img.shields.io/badge/License-MIT-blue.svg "License Badge")
+   This is the backend of an E-commerce site. it has database models of categories , products, and tags, routes are created to perform various CRUD functions.
 
-    .
 
   # Table of Contents
 
@@ -28,7 +27,7 @@
   use insomnia to perform crud functions.
 
   ## Walkthrough
-  [WalkThrough Video]()
+  [WalkThrough Video](https://watch.screencastify.com/v/Ybl1wvopMlz1QadZlwBb)
   
   ## Technologies
   - JavaScript
